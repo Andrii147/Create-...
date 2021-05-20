@@ -1,1 +1,3 @@
 # Create-...
+
+It’s a set of ready-made solutions for modular parts.
